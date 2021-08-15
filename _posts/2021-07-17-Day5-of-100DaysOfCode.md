@@ -1,6 +1,13 @@
 ---
-published: true
+title:  "Advanced examples"
+mathjax: true
+layout: post
+categories: media
+
+
 ---
+
+
 
 # 25. Reverse Nodes in k-Group
 
