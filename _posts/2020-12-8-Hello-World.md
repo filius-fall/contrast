@@ -1,10 +1,12 @@
 ---
+title:  "Advanced examples"
+mathjax: true
 layout: post
-title: First Post
-published: true
+categories: media
+
 ---
 
-## Hey there readers.
+
 
 # This blog will contain my general day activities and what am i learning.
 
